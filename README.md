@@ -40,5 +40,5 @@ This table contains the IMU sensor data produced by the robot. In the following,
 
 ### (Table joint_states)
 The table joint_states is only part of the database for completeness.
-It contains the time stamps and the data (position, velocity and effort)  from all robot arm joints, as well as these information about the gripper itself. In our scenario, it was not used for processing.
+It contains the time stamps and the data (position, velocity and effort)  from all robot arm joints, as well as these information about the gripper itself. In our scenario, it was not used for processing yet.
 
